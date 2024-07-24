@@ -5,7 +5,6 @@ Componentes
 -----------
     ./data -> Directorio que contiene el enunciado y el mapa de la práctica.
         - Practica Inteligentes.pdf -> Enunciado de la práctica incremental.
-        - LaGomera.hdf5 -> Mapa de La Gomera en formato hdf5.
 
     ./src -> Directorio que contiene el código fuente de la práctica.
       
